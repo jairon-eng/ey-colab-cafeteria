@@ -1,12 +1,10 @@
-# NEXTJS - Ecommerce
-> Build a E-commerce Full Stack with Nextjs + Mongodb + React Hook + Bootstrap 4
+# NEXTJS - Cafeteria
+> Build a Cafeteria  Full Stack with Nextjs + Mongodb + React Hook + Bootstrap 4
 > Instructions on how to use nextjs in conjunction with mongodb to build a basic e-commerce website.
 
-## Demo: https://nextjs-ecommerce-six.vercel.app/
+## Demo: https://ey-colab-cafeteria.vercel.app/
 
-## Author: Dev AT
-
-## Youtube tutorials: https://www.youtube.com/watch?v=UsEN7LGefhA&list=PLs4co9a6NhMzf-5tIWfpzDCgdMyg-CceX
+## Author: Jairon Herrera, Santos Zurdo, Jonatan Suruy
 
 ## Install dependencies 
 ### `npm install`
@@ -19,11 +17,20 @@
 
 ### User interface 
 
-![alt](https://res.cloudinary.com/devat-channel/image/upload/v1610956436/nextjs_media/2_dgx2op.png)
+![alt](https://res.cloudinary.com/dwkgbsypm/image/upload/v1616014272/cafeteria_media/Screen_Shot_2021-03-17_at_14.45.37_goxzov.png)
 
-![alt](https://res.cloudinary.com/devat-channel/image/upload/v1610956526/nextjs_media/3_dkmrq1.png)
+![alt](https://res.cloudinary.com/dwkgbsypm/image/upload/v1616014555/cafeteria_media/Screen_Shot_2021-03-17_at_14.55.25_tqidxl.png)
 
 ### Admin interface 
 
-![alt](https://res.cloudinary.com/devat-channel/image/upload/v1610956354/nextjs_media/Untitled_axeubb.png)
+![alt](https://res.cloudinary.com/dwkgbsypm/image/upload/v1616014272/cafeteria_media/Screen_Shot_2021-03-17_at_14.45.37_goxzov.png)
+
+### Root interface 
+![alt](https://res.cloudinary.com/dwkgbsypm/image/upload/v1616014500/cafeteria_media/Screen_Shot_2021-03-17_at_14.53.57_o99xl4.png)
+
+![alt](https://res.cloudinary.com/dwkgbsypm/image/upload/v1616014506/cafeteria_media/Screen_Shot_2021-03-17_at_14.49.41_zfms2q.png)
+
+![alt](https://res.cloudinary.com/dwkgbsypm/image/upload/v1616014506/cafeteria_media/Screen_Shot_2021-03-17_at_14.49.41_zfms2q.png)
+
+
 # ey-colab-cafeteria
