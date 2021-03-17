@@ -30,7 +30,7 @@
 
 ![alt](https://res.cloudinary.com/dwkgbsypm/image/upload/v1616014506/cafeteria_media/Screen_Shot_2021-03-17_at_14.49.41_zfms2q.png)
 
-![alt](https://res.cloudinary.com/dwkgbsypm/image/upload/v1616014506/cafeteria_media/Screen_Shot_2021-03-17_at_14.49.41_zfms2q.png)
+![alt](https://res.cloudinary.com/dwkgbsypm/image/upload/v1616014513/cafeteria_media/Screen_Shot_2021-03-17_at_14.54.05_ekqtwc.png)
 
 
 # ey-colab-cafeteria
