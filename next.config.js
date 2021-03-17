@@ -1,6 +1,6 @@
 module.exports = {
     env: {
-        "BASE_URL": "http://localhost:3000",
+        "BASE_URL": "https://ey-colab-cafeteria.vercel.app/",
         "MONGODB_URL": "mongodb+srv://next:123@cluster2.lwq9y.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
         "ACCESS_TOKEN_SECRET": "1237404422563394389",
         "REFRESH_TOKEN_SECRET": "123secret97098382rere13063711",
