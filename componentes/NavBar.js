@@ -69,8 +69,7 @@ function NavBar() {
     }
 
     return (
-        <nav className="navbar navbar-expand-lg navbar navbar-dark bg-dark">
-            <Link href="/">
+ <nav className="navbar navbar-expand-lg navbar navbar-dark bg-primary">            <Link href="/">
                  <a className="navbar-brand">CAFETERIA ☕ UMG</a>
                        </Link>
 
